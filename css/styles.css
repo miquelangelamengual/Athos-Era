@@ -1,3 +1,21 @@
 .claseprincipal {
-    background-color: #6c757d;
+    background-color: #ffffff;
+}
+
+.firstdiv {
+    padding: 100px;
+}
+
+.centrartext-2 {
+    margin-top: 150px;
+}
+
+.centrat {
+    text-align: center;
+}
+
+.userjourney {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
 }
