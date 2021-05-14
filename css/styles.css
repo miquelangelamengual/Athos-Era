@@ -2,10 +2,6 @@
     background-color: #c6fc9f;
 }
 
-.firstdiv {
-    padding: 100px;
-}
-
 .centrartext-2 {
     margin-top: 150px;
 }
@@ -18,4 +14,12 @@
     width: 60%;
     margin-left: auto;
     margin-right: auto;
+}
+
+.divPrincipal {
+    width: 70%;
+}
+
+.firstObject {
+    margin-top: 50px;
 }
