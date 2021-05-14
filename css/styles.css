@@ -10,16 +10,41 @@
     text-align: center;
 }
 
-.userjourney {
-    width: 60%;
+.divPrincipal {
+    width: 70%;
     margin-left: auto;
     margin-right: auto;
 }
 
-.divPrincipal {
-    width: 70%;
+.margin-top {
+    margin-top: 50px;
 }
 
-.firstObject {
-    margin-top: 50px;
+.button {
+    padding: 20px;
+    background-color: white;
+}
+
+.button:hover {
+    background-color: #b5b5b5;
+}
+
+.button-color {
+    color: black;
+}
+
+.button-margin {
+    margin: 20px;
+}
+
+.hr-line {
+    width: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button-width {
+    width: 14%;
+    margin-left: auto;
+    margin-right: auto;
 }
